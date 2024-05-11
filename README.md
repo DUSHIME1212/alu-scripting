@@ -1,1 +1,1 @@
-This is my https://github.com/DUSHIME1212/alu-scripting.git
+This is my alu-scripting. git
